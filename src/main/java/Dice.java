@@ -17,7 +17,5 @@ public int roll(){
    }
 return sum;
 }
-public int getNumberOfDice(){
-    return this.numberOfDice;
 }
-}
+
